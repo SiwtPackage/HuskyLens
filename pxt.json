@@ -1,0 +1,21 @@
+{
+    "name": "Huskylens",
+    "version": "2.0.0",
+    "description": "",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "huskylens.ts",
+        "_locales/zh-cn/Huskylens-strings.json",
+        "_locales/zh-tw/Huskylens-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
